@@ -102,6 +102,8 @@ Tempo is normalized from its raw BPM range (60–160) to a 0–1 scale before sc
 
 ![Terminal output showing top recommendations](assets/terminal_output.png)
 
+![Terminal output – April 18 2026](assets/terminal_output_2026-04-18.png)
+
 ---
 
 ### Potential Biases and Known Limitations
